@@ -1,0 +1,12 @@
+.cust-bg-info{
+    background-color: #fceae8;
+}
+.cust-btn{
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 19, 111) 100%);
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border-color: initial;
+    border: none;
+    text-decoration: none;
+}
